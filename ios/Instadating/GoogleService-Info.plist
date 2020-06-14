@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1027968639967-pqtvvu3gst6fc40j38spose17v3fble9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1027968639967-pqtvvu3gst6fc40j38spose17v3fble9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwt79lpfg-27ThdrpMlbKCYO2BI4rFxS4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1027968639967</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kynginc.parrot2</string>
+	<key>PROJECT_ID</key>
+	<string>parrot-ed37b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>parrot-ed37b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1027968639967:ios:04483256a8afc7c73b1a6a</string>
+	<key>DATABASE_URL</key>
+	<string>https://parrot-ed37b.firebaseio.com</string>
+</dict>
+</plist>
