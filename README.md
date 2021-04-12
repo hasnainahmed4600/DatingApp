@@ -1,4 +1,4 @@
-# Instadating
+# Dating App
 React Native
 
 ## Enable Push Notification
